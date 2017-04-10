@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" 
+          package="Droid.MvvmCrossRealm_RecyclerView.Droid.MvvmCrossRealm_RecyclerView" 
+          android:versionCode="1" 
+          android:versionName="1.0"
+          android:theme="@android:style/Theme.Light.NoTitleBar">
+  <uses-sdk android:minSdkVersion="16" />
+  <application android:label="Droid.MvvmCrossRealm_RecyclerView"></application>
+</manifest>
